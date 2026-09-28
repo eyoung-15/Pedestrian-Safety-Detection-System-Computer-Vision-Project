@@ -24,9 +24,9 @@ Developed as a two-person team, the system uses supervised learning to identify 
 
 Python · YOLO · Computer Vision · Roboflow · Label Studio
 
-**Project Presentation**
+**Project Presentation and Report**
 
-For more information about the dataset, methodology, model evaluation, challenges, and ethical considerations please view the project presentation slides.
+For more information about the dataset, methodology, model evaluation, challenges, and ethical considerations please view the project presentation slides and project report.
 
 **Disclaimer**
 
